@@ -417,14 +417,14 @@
 <pin name="PC1" x="27.94" y="50.8" visible="pin" length="short" rot="R180"/>
 <pin name="PC2" x="27.94" y="48.26" visible="pin" length="short" rot="R180"/>
 <pin name="PC3" x="27.94" y="45.72" visible="pin" length="short" rot="R180"/>
-<pin name="VSSA" x="-2.54" y="134.62" visible="pin" length="short"/>
-<pin name="VDDA" x="-2.54" y="124.46" visible="pin" length="short"/>
+<pin name="VSSA" x="-2.54" y="119.38" visible="pin" length="short"/>
+<pin name="VDDA" x="-2.54" y="134.62" visible="pin" length="short"/>
 <pin name="PA0_WKUP" x="27.94" y="139.7" visible="pin" length="short" rot="R180"/>
 <pin name="PA1" x="27.94" y="137.16" visible="pin" length="short" rot="R180"/>
 <pin name="PA2" x="27.94" y="134.62" visible="pin" length="short" rot="R180"/>
 <pin name="PA3" x="27.94" y="132.08" visible="pin" length="short" rot="R180"/>
-<pin name="VSS@18" x="-2.54" y="132.08" visible="pin" length="short"/>
-<pin name="VDD@19" x="-2.54" y="121.92" visible="pin" length="short"/>
+<pin name="VSS@18" x="-2.54" y="116.84" visible="pin" length="short"/>
+<pin name="VDD@19" x="-2.54" y="132.08" visible="pin" length="short"/>
 <pin name="PA4" x="27.94" y="129.54" visible="pin" length="short" rot="R180"/>
 <pin name="PA5" x="27.94" y="127" visible="pin" length="short" rot="R180"/>
 <pin name="PA6" x="27.94" y="124.46" visible="pin" length="short" rot="R180"/>
@@ -437,7 +437,7 @@
 <pin name="PB10" x="27.94" y="71.12" visible="pin" length="short" rot="R180"/>
 <pin name="PB11" x="27.94" y="68.58" visible="pin" length="short" rot="R180"/>
 <pin name="VCAP_1" x="-2.54" y="109.22" visible="pin" length="short"/>
-<pin name="VDD@32" x="-2.54" y="119.38" visible="pin" length="short"/>
+<pin name="VDD@32" x="-2.54" y="129.54" visible="pin" length="short"/>
 <pin name="PB12" x="27.94" y="66.04" visible="pin" length="short" rot="R180"/>
 <pin name="PB13" x="27.94" y="63.5" visible="pin" length="short" rot="R180"/>
 <pin name="PB14" x="27.94" y="60.96" visible="pin" length="short" rot="R180"/>
@@ -453,7 +453,7 @@
 <pin name="PA12" x="27.94" y="109.22" visible="pin" length="short" rot="R180"/>
 <pin name="PA13" x="27.94" y="106.68" visible="pin" length="short" rot="R180"/>
 <pin name="VCAP_2" x="-2.54" y="106.68" visible="pin" length="short"/>
-<pin name="VDD@48" x="-2.54" y="116.84" visible="pin" length="short"/>
+<pin name="VDD@48" x="-2.54" y="127" visible="pin" length="short"/>
 <pin name="PA14" x="27.94" y="104.14" visible="pin" length="short" rot="R180"/>
 <pin name="PA15" x="27.94" y="101.6" visible="pin" length="short" rot="R180"/>
 <pin name="PC10" x="27.94" y="27.94" visible="pin" length="short" rot="R180"/>
@@ -468,8 +468,8 @@
 <pin name="BOOT0" x="-2.54" y="2.54" visible="pin" length="short"/>
 <pin name="PB8" x="27.94" y="76.2" visible="pin" length="short" rot="R180"/>
 <pin name="PB9" x="27.94" y="73.66" visible="pin" length="short" rot="R180"/>
-<pin name="VSS@63" x="-2.54" y="129.54" visible="pin" length="short"/>
-<pin name="VDD@64" x="-2.54" y="114.3" visible="pin" length="short"/>
+<pin name="VSS@63" x="-2.54" y="114.3" visible="pin" length="short"/>
+<pin name="VDD@64" x="-2.54" y="124.46" visible="pin" length="short"/>
 </symbol>
 <symbol name="ADXL345">
 <wire x1="0" y1="0" x2="30.48" y2="0" width="0.254" layer="94"/>
