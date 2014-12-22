@@ -103,7 +103,9 @@
 <connect gate="G$1" pin="R-" pad="C2"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DIGIKEY_PN" value="475-2899-1-ND"/>
+</technology>
 </technologies>
 </device>
 </devices>

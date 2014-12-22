@@ -285,7 +285,9 @@
 <connect gate=".POWER" pin="VSSA" pad="12"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DIGIKEY_PN" value="497-11767-ND"/>
+</technology>
 </technologies>
 </device>
 </devices>

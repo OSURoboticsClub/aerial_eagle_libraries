@@ -109,7 +109,9 @@
 <connect gate="G$1" pin="VDD" pad="1"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="CDI_PN" value="MS561101BA03-50"/>
+</technology>
 </technologies>
 </device>
 </devices>
