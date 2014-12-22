@@ -1,3 +1,3 @@
-Aerial EAGLE Libraries
-======================
-_EAGLE libraries for Aerial avionics_
+OSURC EDA Libraries
+===================
+_Club EDA libraries_
