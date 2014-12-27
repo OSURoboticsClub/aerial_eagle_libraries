@@ -363,6 +363,7 @@ FQP27P06 -
 </devices>
 </deviceset>
 <deviceset name="DIODE-TVS-BIDIRECTIONAL" prefix="D">
+<description>Generic bidirectional TVS diode.</description>
 <gates>
 <gate name="G$1" symbol="DIODE-TVS-BIDIRECTIONAL" x="0" y="0"/>
 </gates>

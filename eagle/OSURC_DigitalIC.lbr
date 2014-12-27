@@ -212,6 +212,7 @@
 </symbols>
 <devicesets>
 <deviceset name="STM32F405" prefix="U">
+<description>Fast little Cortex-M4 ARM used by everyone jumping on the custom flight control bandwagon.</description>
 <gates>
 <gate name=".GPIO" symbol="STM32F405_GPIO" x="12.7" y="43.18"/>
 <gate name=".POWER" symbol="STM32F405_POWER" x="55.88" y="10.16"/>
