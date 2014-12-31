@@ -198,7 +198,7 @@
 <pin name="CSB@5" x="12.7" y="2.54" length="short" direction="in" rot="R180"/>
 <pin name="SDO" x="12.7" y="0" length="short" direction="out" rot="R180"/>
 <pin name="SDI/SDA" x="12.7" y="-2.54" length="short" rot="R180"/>
-<pin name="SCLK" x="12.7" y="-5.08" length="short" direction="in" rot="R180"/>
+<pin name="SCLK" x="12.7" y="-5.08" length="short" direction="in" function="clk" rot="R180"/>
 <text x="-10.16" y="-10.16" size="1.778" layer="95">&gt;value</text>
 <text x="-10.16" y="8.89" size="1.778" layer="95">&gt;name</text>
 </symbol>
@@ -216,10 +216,10 @@
 <pin name="FSYNC" x="-17.78" y="-2.54" length="short"/>
 <pin name="REGOUT" x="-17.78" y="0" length="short"/>
 <pin name="AUX_DA" x="17.78" y="-10.16" length="short" rot="R180"/>
-<pin name="AUX_CL" x="17.78" y="-7.62" length="short" rot="R180"/>
+<pin name="AUX_CL" x="17.78" y="-7.62" length="short" function="clk" rot="R180"/>
 <pin name="NCS" x="17.78" y="10.16" length="short" rot="R180"/>
 <pin name="INT" x="17.78" y="-2.54" length="short" rot="R180"/>
-<pin name="SCL/SCLK" x="17.78" y="2.54" length="short" rot="R180"/>
+<pin name="SCL/SCLK" x="17.78" y="2.54" length="short" function="clk" rot="R180"/>
 <pin name="SDA/SDI" x="17.78" y="5.08" length="short" rot="R180"/>
 <text x="-15.24" y="13.97" size="1.778" layer="95">&gt;NAME</text>
 <text x="-15.24" y="-15.24" size="1.778" layer="96">&gt;VALUE</text>
@@ -252,7 +252,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="MPU-9250" prefix="U" uservalue="yes">
+<deviceset name="MPU-9250" prefix="U">
 <description>9DOF (3mag, 3accel, 3gyro). SPI/I2C interface.</description>
 <gates>
 <gate name="G$1" symbol="MPU-9250" x="0" y="0"/>
