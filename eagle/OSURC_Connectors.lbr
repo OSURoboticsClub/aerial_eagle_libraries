@@ -432,7 +432,9 @@ USB connector with shield pins connectable</description>
 <connect gate="G$1" pin="VBUS" pad="1"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DIGIKEY_PN" value="WM17141CT-ND"/>
+</technology>
 </technologies>
 </device>
 </devices>
