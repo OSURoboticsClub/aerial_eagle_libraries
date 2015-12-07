@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MEAS-MS5611
+F http://www.meas-spec.com/downloads/MS5611-01BA03.pdf
+$ENDCMP
+#
+$CMP MPU-9250
+F http://43zrtwysvxb2gf29r5o0athu.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/MPU-9250-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

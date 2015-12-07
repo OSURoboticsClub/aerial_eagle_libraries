@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOLEX-503182
+D Molex microSD card slot
+F http://www.molex.com/pdm_docs/sd/5031821853_sd.pdf
+$ENDCMP
+#
+$CMP MOLEX-MICROLATCH-2POS-RA
+D Molex Microlatch 2-pos RA
+$ENDCMP
+#
+$CMP MOLEX-MICROLATCH-3POS-RA
+D Molex Microlatch 3-pos RA
+$ENDCMP
+#
+$CMP MOLEX-MICROLATCH-4POS-RA
+D Molex Microlatch 4-pos RA
+$ENDCMP
+#
+$CMP MOLEX-MICROLATCH-5POS-RA
+D Molex Microlatch 5-pos RA
+$ENDCMP
+#
+$CMP USB-MICROB-SMD-MOLEX
+D Micro-B USB connector
+$ENDCMP
+#
+#End Doc Library

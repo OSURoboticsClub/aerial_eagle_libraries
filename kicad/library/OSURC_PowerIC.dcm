@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5219-3.3
+D 3.3V 500mA SMPS
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-5.0
+D 5V 500mA SMPS
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5219.pdf
+$ENDCMP
+#
+#End Doc Library
